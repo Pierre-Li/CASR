@@ -1,0 +1,16 @@
+**********************
+Method_1: MSRN; Set: Manga109
+--------Mean--------
+x2: PSNR= NaN SSIM= NaN
+--------Mean--------
+x3: PSNR= NaN SSIM= NaN
+--------Mean--------
+x4: PSNR= NaN SSIM= NaN
+**********************
+Method_2: MSRN_plus; Set: Manga109
+--------Mean--------
+x2: PSNR= NaN SSIM= NaN
+--------Mean--------
+x3: PSNR= NaN SSIM= NaN
+--------Mean--------
+x4: PSNR= NaN SSIM= NaN
